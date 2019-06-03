@@ -176,7 +176,7 @@ $(document).ready(function () {
 			}
 		},
 		title: {
-			text: 'Token Distribution'
+			text: 'Focus Distribution'
 		},
 		subtitle: {
 			text: ''
@@ -251,7 +251,7 @@ $(document).ready(function () {
 			}
 		},
 		title: {
-			text: 'Use of Proceeds'
+			text: 'Operations '
 		},
 		subtitle: {
 			text: ''
@@ -270,26 +270,29 @@ $(document).ready(function () {
 				}
 			}
 		},
-		colors: ['#f5a623', '#2bc460', '#108ca2', '#7e63df'],
+		colors: ['#2bc460', '#108ca2', '#f5a623', '#f44e4e',   '#7e63df'],
 		series: [{
 			name: 'Brands',
 			colorByPoint: true,
 			data: [{
+					name: 'Research',
+					y: 20.00,
+
+				}, {
+					name: 'Design & Architecture',
+					y: 10.00,
+
+				},{
 					name: 'Software Development',
 					y: 30.00,
 
 				}, {
-					name: 'Bancor ETH Reserve',
+					name: 'Testing ',
 					y: 10.00,
 
-				}, {
-					name: 'Legal Expenses',
-					y: 10.00,
-
-				},
-				{
+				},{
 					name: 'Marketing  ',
-					y: 50.00,
+					y: 30.00,
 
 				}
 			]
