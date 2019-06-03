@@ -511,7 +511,8 @@ body.animate {
 
 #platform {
 	padding: 130px 0 0px;
-	background: #171a22;
+	/*background: #171a22;*/
+	background: #270068;
 	height: 100vh;
 }
 
@@ -544,6 +545,8 @@ body.animate {
 	width: 100%;
 	height: 100%;
 	overflow: visible;
+	/*Added CSS*/
+	position: relative;
 }
 
 .home-svg .line1 {
@@ -2186,4 +2189,8 @@ ul.leaders span+span {
 
 .foot-links li a:hover {
 	color: #c38df7!important;
+}
+
+.waves canvas {
+	position: absolute;
 }
