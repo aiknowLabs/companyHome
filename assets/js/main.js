@@ -76,7 +76,8 @@ $(document).ready(function () {
 $(document).ready(function () {
 	'use strict';
 
-	function makeTimer() {
+	// not using this function
+	/*function makeTimer() {
 		var endTime = new Date("June 15 2019  9:56:00");
 		endTime = (Date.parse(endTime) / 1000);
 
@@ -105,10 +106,26 @@ $(document).ready(function () {
 		$("#minutes").html(minutes + "<span class='c-text'>Min</span>");
 		$("#seconds").html(seconds + "<span class='c-text'>Sec</span>");
 
+	}*/
+
+	function startTime() {
+		let today = new Date();
+		let d = today.getDate();
+		let h = today.getHours();
+		let m = today.getMinutes();
+		let s = today.getSeconds();
+		d = checkTime(d);
+		m = checkTime(m);
+		s = checkTime(s);
+		$("#timer").html('<div class="c-time" id="days">'+d+'<span class="c-text"><span class="c-text">Date</span></span></div><div class="c-time" id="hours">'+h+'<span class="c-text"><span class="c-text">Hour</span></span></div><div class="c-time" id="minutes">'+m+'<span class="c-text"><span class="c-text">Min</span></span></div><div class="c-time" id="seconds">'+s+'<span class="c-text"><span class="c-text">Sec</span></span></div>');
+	}
+	function checkTime(i) {
+		if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+		return i;
 	}
 
 	setInterval(function () {
-		makeTimer();
+		startTime();
 	}, 1000);
 });
 
