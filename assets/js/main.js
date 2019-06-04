@@ -274,13 +274,9 @@ $(document).ready(function () {
 		series: [{
 			name: 'Brands',
 			colorByPoint: true,
-			data: [{
-					name: 'Research',
-					y: 20.00,
-
-				}, {
+			data: [ {
 					name: 'Design & Architecture',
-					y: 10.00,
+					y: 30.00,
 
 				},{
 					name: 'Software Development',
@@ -292,7 +288,11 @@ $(document).ready(function () {
 
 				},{
 					name: 'Marketing  ',
-					y: 30.00,
+					y: 10.00,
+
+				},{
+					name: 'Research',
+					y: 20.00,
 
 				}
 			]
