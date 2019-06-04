@@ -60,7 +60,7 @@
 
    renderer = new THREE.CanvasRenderer();
    renderer.setSize( window.innerWidth, window.innerHeight );
-   renderer.setClearColor( 0x152e56, 1);
+   renderer.setClearColor( 0x270068, 1);
    container.appendChild( renderer.domElement );
 
    window.addEventListener( 'resize', onWindowResize, false );
@@ -72,10 +72,10 @@
    windowHalfX = window.innerWidth / 2;
    windowHalfY = window.innerHeight / 2;
 
-   camera.aspect = window.innerWidth / window.innerHeight / 4;
+   camera.aspect = window.innerWidth / window.innerHeight;
    camera.updateProjectionMatrix();
 
-   renderer.setSize( window.innerWidth, window.innerHeight / 4 );
+   renderer.setSize( window.innerWidth, window.innerHeight );
 
   }
 

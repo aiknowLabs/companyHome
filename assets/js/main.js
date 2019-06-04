@@ -251,7 +251,7 @@ $(document).ready(function () {
 			}
 		},
 		title: {
-			text: 'Operations '
+			text: 'Project Distribution'
 		},
 		subtitle: {
 			text: ''
