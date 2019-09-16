@@ -47,8 +47,10 @@ $(document).ready(function () {
 		var scroll = $(window).scrollTop();
 		if (scroll > '0.1') {
 			$('.navbar-light').addClass('nav-white');
+			$('.navbar-light .container .logo_container').addClass('color_logo');
 		} else if (scroll < '0.1') {
 			$('.navbar-light').removeClass('nav-white');
+			$('.navbar-light .container .logo_container').removeClass('color_logo');
 		}
 	});
 	$(document).ready(function () {
