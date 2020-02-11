@@ -1,0 +1,281 @@
+.hover-horizontal-sliding .portfolio-item .image .image-inner img,
+.hover-horizontal-sliding .gallery-item .overlay-wrap .image-wrap img{
+	overflow: hidden;
+	-webkit-transform: translateX(0);
+	transform: translateX(0);
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .image-inner img,
+.hover-horizontal-sliding .gallery-item:hover .overlay-wrap .image-wrap img{
+	-webkit-transform: translateX(-9%);
+	transform: translateX(-9%);
+}
+.news-grid.hover-horizontal-sliding .portfolio-item .image.format-video.has-post-thumbnail .image-inner img {
+	-webkit-transform: translateX(-5%);
+	transform: translateX(-5%);
+}
+.hover-horizontal-sliding .portfolio-item .image .overlay,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay,
+.hover-horizontal-sliding .gallery-item .overlay-wrap .overlay,
+.hover-horizontal-sliding .gallery-item:hover .overlay-wrap .overlay
+{
+	display: block;
+}
+.hover-horizontal-sliding .portfolio-item .image .overlay:before,
+.hover-horizontal-sliding .gallery-item .overlay-wrap .overlay:before{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	content: '';
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	-webkit-transition: opacity 0.5s, background-color 0.5s;
+	transition: opacity 0.5s, background-color 0.5s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay:before,
+.hover-horizontal-sliding .gallery-item:hover .overlay-wrap .overlay:before{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	content: '';
+	width: 100%;
+	height: 100%;
+	opacity: 1;
+	-webkit-transition: opacity 0.5s, background-color 0.5s;
+	transition: opacity 0.5s, background-color 0.5s;
+}
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons > .icon,
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons-inner > .icon,
+.hover-horizontal-sliding .gallery-item .overlay .overlay-content-inner a.icon,
+.portfolio.products.hover-horizontal-sliding .portfolio-item .image .overlay .portfolio-icons.product-bottom a.added_to_cart{
+	opacity: 0;
+	display: inline-block;
+	vertical-align: middle;
+	-webkit-transform: translateX(-200px);
+	transform: translateX(-200px);
+	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+	transition: opacity 0.3s, transform 0.3s;
+}
+.hover-horizontal-sliding .gallery-item .overlay .overlay-content-inner a.icon.link{
+	margin-left: 10px;
+}
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons > .icon:nth-child(1),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons > .icon:nth-child(2),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons > .icon:nth-child(3),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons > .icon:nth-child(4),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons > .icon:nth-child(5),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons-inner > .icon:nth-child(1),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons-inner > .icon:nth-child(2),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons-inner > .icon:nth-child(3),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons-inner > .icon:nth-child(4),
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-icons-inner > .icon:nth-child(5)
+{
+	-webkit-transition: -webkit-transform 0.2s, font-size 0.3s;
+	transition: transform 0.2s, color 0.3s, font-size 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons > .icon,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons-inner > .icon,
+.hover-horizontal-sliding .gallery-item:hover .overlay .overlay-content-inner a.icon,
+.portfolio.products.hover-horizontal-sliding .portfolio-item:hover .image .overlay .portfolio-icons.product-bottom a.added_to_cart{
+	opacity: 1;
+	-webkit-transform: translate(0, 0);
+	transform: translate(0, 0);
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links a.icon:hover{
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+	-webkit-transition: -webkit-transform 0.2s !important;
+	transition: transform 0.2s !important;
+}
+.portfolio.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons > .yith-wcwl-add-to-wishlist.added.icon:hover,
+.portfolio.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons-inner > .yith-wcwl-add-to-wishlist.added.icon:hover{
+	-webkit-transform: none;
+	transform: none;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons > .icon:nth-child(1),
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons-inner > .icon:nth-child(1),
+.portfolio.products.hover-horizontal-sliding .portfolio-item:hover .image .overlay .portfolio-icons.product-bottom a.added_to_cart{
+	-webkit-transition: opacity 0.8s, transform 0.2s 0.18s, font-size 0.3s;
+	transition: opacity 0.8s, transform 0.2s 0.18s, font-size 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons > .icon:nth-child(2),
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons-inner > .icon:nth-child(2){
+	-webkit-transition: opacity 0.8s, transform 0.2s 0.16s, font-size 0.3s;
+	transition: opacity 0.8s, transform 0.2s 0.16s, font-size 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons > .icon:nth-child(3),
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons-inner > .icon:nth-child(3),
+.portfolio.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons > .yith-wcwl-add-to-wishlist a.icon,
+.portfolio.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons-inner > .yith-wcwl-add-to-wishlist a.icon{
+	-webkit-transition: opacity 0.8s, transform 0.2s 0.14s, font-size 0.3s;
+	transition: opacity 0.8s, transform 0.2s 0.14s, font-size 0.3s;;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons > .icon:nth-child(4),
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons-inner > .icon:nth-child(4){
+	-webkit-transition: opacity 0.8s, transform 0.2s 0.12s, font-size 0.3s;
+	transition: opacity 0.8s, transform 0.2s 0.12s, font-size 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons > .icon:nth-child(5),
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-icons-inner > .icon:nth-child(5){
+	-webkit-transition: opacity 0.8s, transform 0.2s 0.1s, font-size 0.3s;
+	transition: opacity 0.8s,transform 0.2s 0.1s, font-size 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item .image .links .caption .title,
+.hover-horizontal-sliding .gallery-item .overlay .title{
+	opacity: 0;
+	position: relative;
+	left: -200px;
+	-webkit-transition: opacity 0.3s, left 0.3s;
+	transition: opacity 0.3s, left 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .links .caption .title,
+.hover-horizontal-sliding .gallery-item:hover .overlay .title{
+	opacity: 1;
+	left: 0;
+	-webkit-transition: opacity 0.3s, left 0.3s;
+	transition: opacity 0.3s, left 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item .image .links .caption .description,
+.hover-horizontal-sliding .gallery-item .overlay .subtitle{
+	opacity: 0;
+	position: relative;
+	left: -200px;
+	-webkit-transition: opacity 0.3s 0.1s, left 0.3s 0.1s;
+	transition: opacity 0.3s 0.1s, left 0.3s 0.1s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .links .caption .description,
+.hover-horizontal-sliding .gallery-item:hover .overlay .subtitle{
+	opacity: 1;
+	left: 0;
+	-webkit-transition: opacity 0.3s 0.1s, left 0.3s 0.1s;
+	transition: opacity 0.3s 0.1s, left 0.3s 0.1s;
+}
+.hover-horizontal-sliding .portfolio-item .image .links .caption .product-info{
+	opacity: 0;
+	position: relative;
+	left: -200px;
+	-webkit-transition: opacity 0.3s 0.1s, left 0.3s 0.1s;
+	transition: opacity 0.3s 0.1s, left 0.3s 0.1s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .links .caption .product-info{
+	opacity: 1;
+	left: 0;
+	-webkit-transition: opacity 0.3s 0.1s, left 0.3s 0.1s;
+	transition: opacity 0.3s 0.1s, left 0.3s 0.1s;
+}
+.hover-horizontal-sliding .gallery-item .overlay .overlay-line{
+	width: 0;
+	opacity: 0;
+	-webkit-transition: width 0.35s, opacity 0.5s;
+	transition: width 0.35s, opacity 0.5s;
+}
+.hover-horizontal-sliding .gallery-item:hover .overlay .overlay-line{
+	width: 100%;
+	opacity: 1;
+	-webkit-transition: width 0.35s, opacity 0.5s;
+	transition: width 0.35s, opacity 0.5s;
+}
+.hover-horizontal-sliding .portfolio-item .image .links .overlay-line{
+	overflow: hidden;
+	position: relative;
+	background: transparent;
+}
+.hover-horizontal-sliding .portfolio-item .image .links .overlay-line:after{
+	position: absolute;
+	content: '';
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 2px;
+	background-color: #fff;
+	-webkit-transform: translateX(-100%);
+	transform: translateX(-100%);
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .links .overlay-line:after{
+	-webkit-transform: translateX(0);
+	transform: translateX(0);
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+}
+.hover-horizontal-sliding .portfolio-item .image .overlay .links .portfolio-sharing-pane{
+	opacity: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	-webkit-transform: translateY(-1000px);
+	transform: translateY(-1000px);
+	-webkit-transition: opacity 0.3s, margin 0.3s 0.3s, -webkit-transform 0s;
+	transition: opacity 0.3s, margin 0.3s 0.3s, transform 0s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane{
+	visibility: hidden;
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+	-webkit-transition: opacity 0.5s, -webkit-transform 0s, margin 0.3s 0.3s;
+	transition: opacity 0.5s, transform 0s, margin 0.3s 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active{
+	opacity: 1;
+	visibility: visible;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	-webkit-transition: opacity 0.5s, margin 0.3s;
+	transition: opacity 0.5s, margin 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane .socials-item-icon{
+	opacity: 0;
+	-webkit-transform: translate(0, 30px);
+	transform: translate(0, 30px);
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active .socials-item-icon{
+	opacity: 1;
+	-webkit-transform: translate(0, 0);
+	transform: translate(0, 0);
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane a.socials-item:nth-child(1) .socials-item-icon,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active a.socials-item:nth-child(1) .socials-item-icon
+{
+	-webkit-transition: color 0.3s, -webkit-transform 0.3s, opacity 0.3s;
+	transition: color 0.3s, transform 0.3s, opacity 0.3s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane a.socials-item:nth-child(2) .socials-item-icon,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active a.socials-item:nth-child(2) .socials-item-icon
+{
+	-webkit-transition: color 0.3s, -webkit-transform 0.3s 0.05s, opacity 0.3s 0.05s;
+	transition: color 0.3s, transform 0.3s 0.05s, opacity 0.3s 0.05s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane a.socials-item:nth-child(3) .socials-item-icon,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active a.socials-item:nth-child(3) .socials-item-icon
+{
+	-webkit-transition: color 0.3s, -webkit-transform 0.3s 0.1s, opacity 0.3s 0.1s;
+	transition: color 0.3s, transform 0.3s 0.1s, opacity 0.3s 0.1s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane a.socials-item:nth-child(4) .socials-item-icon,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active a.socials-item:nth-child(4) .socials-item-icon
+{
+	-webkit-transition: color 0.3s, -webkit-transform 0.3s 0.15s, opacity 0.3s 0.15s;
+	transition: color 0.3s, transform 0.3s 0.15s, opacity 0.3s 0.15s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane a.socials-item:nth-child(5) .socials-item-icon,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active a.socials-item:nth-child(5) .socials-item-icon
+{
+	-webkit-transition: color 0.3s, -webkit-transform 0.3s 0.2s, opacity 0.3s 0.2s;
+	transition: color 0.3s, transform 0.3s 0.2s, opacity 0.3s 0.2s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane a.socials-item:nth-child(6) .socials-item-icon,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active a.socials-item:nth-child(6) .socials-item-icon
+{
+	-webkit-transition: color 0.3s, -webkit-transform 0.3s 0.25s, opacity 0.3s 0.25s;
+	transition: color 0.3s, transform 0.3s 0.25s, opacity 0.3s 0.25s;
+}
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane a.socials-item:nth-child(7) .socials-item-icon,
+.hover-horizontal-sliding .portfolio-item:hover .image .overlay .links .portfolio-sharing-pane.active a.socials-item:nth-child(7) .socials-item-icon
+{
+	-webkit-transition: color 0.3s, -webkit-transform 0.3s 0.3s, opacity 0.3s 0.3s;
+	transition: color 0.3s, transform 0.3s 0.3s, opacity 0.3s 0.3s;
+}

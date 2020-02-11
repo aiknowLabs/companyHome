@@ -1,0 +1,414 @@
+/* GALLERY SLIDER HOVERS */
+
+.gem-gallery-hover-default .gem-gallery-preview-carousel-wrap .gem-gallery-item a:after {
+	content: '\e60f';
+	font-family: 'thegem-icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 63px;
+	height: 63px;
+	line-height: 63px;
+	width: 63px;
+	text-align: center;
+	position: absolute;
+	top: 0%;
+	left: 50%;
+	margin-left: -30px;
+	margin-top: -30px;
+	z-index: 5;
+	opacity: 0;
+	-webkit-transition: top 0.3s, opacity 0.3s;
+	transition: top 0.3s, opacity 0.3s;
+}
+.gem-gallery-hover-default .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item a:after {
+	top: 50%;
+	opacity: 1;
+	-webkit-transition: top 0.4s ease 0.1s, opacity 0.5s 0.1s;
+	transition: top 0.4s ease 0.1s, opacity 0.5s 0.1s;
+}
+.gem-gallery-hover-default .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-title {
+	width: 100%;
+	padding: 0 25%;
+	text-align: center;
+	position: absolute;
+	top: -50%;
+	left: 0;
+	margin-top: -15px;
+	z-index: 5;
+	opacity: 0;
+	text-transform: uppercase;
+	-webkit-transition: top 0.3s, opacity 0.3s;
+	transition: top 0.3s, opacity 0.3s;
+}
+.gem-gallery-hover-default .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-title {
+	top: 25%;
+	opacity: 1;
+	-webkit-transition: top 0.3s 0.2s, opacity 0.5s 0.25s;
+	transition: top 0.3s 0.2s, opacity 0.5s 0.25s;
+}
+.gem-gallery-hover-default .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-description {
+	width: 100%;
+	padding: 0 25%;
+	text-align: center;
+	position: absolute;
+	top: 20%;
+	left: 0;
+	margin-top: -12px;
+	z-index: 5;
+	opacity: 0;
+	-webkit-transition: top 0.5s, opacity 0.4s;
+	transition: top 0.5s, opacity 0.4s;
+}
+.gem-gallery-hover-default .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-description {
+	top: 75%;
+	opacity: 1;
+	-webkit-transition: top 0.3s, opacity 0.3s;
+	transition: top 0.3s, opacity 0.3s;
+}
+
+
+
+
+
+.gem-gallery-hover-zooming-blur .gem-gallery-preview-carousel-wrap .gem-gallery-item a:after {
+	content: '\e629';
+	font-family: 'thegem-icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 32px;
+	width: 70px;
+	height: 70px;
+	line-height: 68px;
+	text-align: center;
+	position: absolute;
+	top: 125%;
+	left: 50%;
+	margin-left: -35px;
+	margin-top: -35px;
+	z-index: 5;
+	opacity: 0;
+	border-radius: 70px;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	-webkit-transition: opacity 0.5s 0.05s, -webkit-transform 0s 0.55s, top 0.5s 0.05s;
+	transition: opacity 0.5s 0.05s, transform 0s 0.55s, top 0.5s 0.05s;
+}
+.gem-gallery-hover-zooming-blur .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item a:after {
+	top: 50%;
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: top 0s 0.05s, -webkit-transform 0.5s 0.05s;
+	transition: top 0s 0.05s, transform 0.5s 0.05s;
+}
+.gem-gallery-hover-zooming-blur .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-title {
+	width: 100%;
+	padding: 0 25%;
+	text-align: center;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	margin-top: -15px;
+	z-index: 5;
+	opacity: 0;
+	text-transform: uppercase;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	-webkit-transition: opacity 0.5s 0.1s, -webkit-transform 0s 0.6s, top 0.5s 0.1s;
+	transition: opacity 0.5s 0.1s, transform 0s 0.6s, top 0.5s 0.1s;
+}
+.gem-gallery-hover-zooming-blur .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-title {
+	top: 25%;
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: top 0s, -webkit-transform 0.5s;
+	transition: top 0s, transform 0.5s;
+}
+.gem-gallery-hover-zooming-blur .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-description {
+	width: 100%;
+	padding: 0 25%;
+	text-align: center;
+	position: absolute;
+	top: 150%;
+	left: 0;
+	margin-top: -12px;
+	z-index: 5;
+	opacity: 0;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	-webkit-transition: opacity 0.5s, -webkit-transform 0s 0.5s, top 0.5s;
+	transition: opacity 0.5s, transform 0s 0.5s, top 0.5s;
+}
+.gem-gallery-hover-zooming-blur .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-description {
+	top: 75%;
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: top 0s 0.1s, -webkit-transform 0.5s 0.1s;
+	transition: top 0s 0.1s, transform 0.5s 0.1s;
+}
+
+
+.gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap .gem-gallery-item a .gem-gallery-caption:before {
+	content: '';
+	display: block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: 2;
+	background: none !important;
+	-webkit-transition: opacity 0.5s 0.2s;
+}
+
+.gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap .gem-gallery-item a:before {
+	opacity: 0;
+	background: -moz-linear-gradient(left,  rgba(255,43,88,0.8) 0%, rgba(255,216,0,0.8) 100%) !important;
+	background: -webkit-linear-gradient(left,  rgba(255,43,88,0.8) 0%,rgba(255,216,0,0.8) 100%) !important;
+	background: linear-gradient(to right,  rgba(255,43,88,0.8) 0%,rgba(255,216,0,0.8) 100%) !important;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ccff2b58', endColorstr='#ccffd800',GradientType=1 ) !important;
+	transition: opacity 0.5s 0.2s;
+}
+
+.gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item a:before {
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+
+.gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap .gem-gallery-item a:after {
+	content: '\e629';
+	font-family: 'thegem-icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 32px;
+	width: 70px;
+	height: 70px;
+	line-height: 68px;
+	text-align: center;
+	position: absolute;
+	top: 80%;
+	left: 66px;
+	z-index: 5;
+	opacity: 0;
+	border-radius: 70px;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	-webkit-transition: opacity 0.5s 0.05s, -webkit-transform 0s 0.55s, top 0.5s 0.05s;
+	transition: opacity 0.5s 0.05s, transform 0s 0.55s, top 0.5s 0.05s;
+}
+.gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item a:after {
+	top: 63px;
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: top 0s 0.05s, -webkit-transform 0.5s 0.05s;
+	transition: top 0s 0.05s, transform 0.5s 0.05s;
+}
+.gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-title {
+	max-width: 100%;
+	padding: 25px 67px;
+	text-align: left;
+	position: absolute;
+	top: auto;
+	bottom: -100%;
+	left: 0;
+	margin: 0;
+	z-index: 5;
+	opacity: 0;
+	text-transform: uppercase;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	-webkit-transition: opacity 0.5s 0.1s, -webkit-transform 0s 0.6s, bottom 0.5s 0.1s;
+	transition: opacity 0.5s 0.1s, transform 0s 0.6s, bottom 0.5s 0.1s;
+}
+.gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-title {
+	bottom: 0;
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: bottom 0s, -webkit-transform 0.5s;
+	transition: bottom 0s, transform 0.5s;
+}
+.gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-description {
+	display: none !important;
+}
+
+
+
+.gem-gallery-hover-horizontal-sliding .gem-gallery-preview-carousel-wrap .gem-gallery-item a:after {
+	content: '\e629';
+	font-family: 'thegem-icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 32px;
+	height: 32px;
+	line-height: 32px;
+	width: 32px;
+	text-align: left;
+	position: absolute;
+	top: 52%;
+	left: 0%;
+	-webkit-transition: left 0.25s, opacity 0.3s;
+	transition: left 0.25s, opacity 0.3s;
+	margin-top: -32px;
+	z-index: 5;
+	opacity: 0;
+}
+.gem-gallery-hover-horizontal-sliding .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item a:after {
+	top: 52%;
+	left: 8%;
+	opacity: 1;
+	-webkit-transition: left 0.25s, opacity 0.3s;
+	transition: left 0.25s, opacity 0.3s;
+}
+.gem-gallery-hover-horizontal-sliding .gem-gallery-preview-carousel-wrap .gem-gallery-line{
+	content: '';
+	width: 0;
+	height: 2px;
+	background-color: #fff;
+	display: block;
+	position: absolute;
+	top: 59%;
+	left: 8%;
+	opacity: 0;
+	z-index: 100;
+	-webkit-transition: width 0.25s, opacity 0.5s;
+	transition: width 0.25s, opacity 0.5s;
+}
+.gem-gallery-hover-horizontal-sliding .gem-gallery-preview-carousel-wrap:hover .gem-gallery-line {
+	content: '';
+	width: 84%;
+	opacity: 1;
+	-webkit-transition: width 0.25s, opacity 0.5s;
+	transition: width 0.25s, opacity 0.5s;
+}
+.gem-gallery-hover-horizontal-sliding .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-title {
+	text-align: left;
+	position: absolute;
+	top: 63%;
+	left: 0%;
+	z-index: 5;
+	opacity: 0;
+	text-transform: uppercase;
+	-webkit-transition: left 0.25s 0.05s, opacity 0.25s 0.05s;
+	transition: left 0.25s 0.05s, opacity 0.25s 0.05s;
+}
+.gem-gallery-hover-horizontal-sliding .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-title {
+	top: 63%;
+	opacity: 1;
+	left:8%;
+	-webkit-transition: left 0.25s 0.05s, opacity 0.25s 0.05s;
+	transition: left 0.25s 0.05s, opacity 0.25s 0.05s;
+}
+.gem-gallery-hover-horizontal-sliding .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-description {
+	text-align: left;
+	position: absolute;
+	width: 84%;
+	top: 77%;
+	left: 0%;
+	z-index: 5;
+	opacity: 0;
+	-webkit-transition: left 0.25s 0.1s, opacity 0.25s 0.1s;
+	transition: left 0.25s 0.1s, opacity 0.25s 0.1s;
+}
+.gem-gallery-hover-horizontal-sliding .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-description {
+	top: 77%;
+	left: 8%;
+	opacity: 1;
+	-webkit-transition: left 0.25s 0.1s, opacity 0.25s 0.1s;
+	transition: left 0.25s 0.1s, opacity 0.25s 0.1s;
+}
+.gem-gallery-item-description p {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+
+
+
+
+.gem-gallery-hover-vertical-sliding .gem-gallery-preview-carousel-wrap .gem-gallery-item a:after {
+	content: '\e629';
+	font-family: 'thegem-icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 32px;
+	height: 32px;
+	line-height: 32px;
+	width: 32px;
+	text-align: left;
+	position: absolute;
+	top: 50%;
+	left: 8%;
+	-webkit-transition: top 0.25s 0.1s, opacity 0.3s 0.1s;
+	transition: top 0.25s 0.1s, opacity 0.3s 0.1s;
+	margin-top: -32px;
+	z-index: 5;
+	opacity: 0;
+}
+.gem-gallery-hover-vertical-sliding .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item a:after {
+	-webkit-transition: top 0.25s ease, opacity 0.3s;
+	transition: top 0.25s ease, opacity 0.3s;
+	top: 22%;
+	left: 8%;
+	opacity: 1;
+}
+.gem-gallery-hover-vertical-sliding .gem-gallery-preview-carousel-wrap .gem-gallery-line{
+	content: '';
+	width: 0;
+	height: 2px;
+	background-color: #fff;
+	display: block;
+	position: absolute;
+	top: 29%;
+	left: 8%;
+	opacity: 0;
+	z-index: 100;
+	-webkit-transition: width 0.25s, opacity 0.5s;
+	transition: width 0.25s, opacity 0.5s;
+}
+.gem-gallery-hover-vertical-sliding .gem-gallery-preview-carousel-wrap:hover .gem-gallery-line {
+	content: '';
+	width: 84%;
+	opacity: 1;
+	-webkit-transition: width 0.25s, opacity 0.5s;
+	transition: width 0.25s, opacity 0.5s;
+}
+.gem-gallery-hover-vertical-sliding .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-title {
+	text-align: left;
+	position: absolute;
+	top: 70%;
+	left: 8%;
+	z-index: 5;
+	opacity: 0;
+	text-transform: uppercase;
+	-webkit-transition: top 0.25s 0.05s, opacity 0.25s 0.05s;
+	transition: top 0.25s 0.05s, opacity 0.25s 0.05s;
+}
+.gem-gallery-hover-vertical-sliding .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-title {
+	top: 33%;
+	opacity: 1;
+	left:8%;
+	-webkit-transition: top 0.25s 0.05s, opacity 0.25s 0.05s;
+	transition: top 0.25s 0.05s, opacity 0.25s 0.05s;
+}
+.gem-gallery-hover-vertical-sliding .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-description {
+	text-align: left;
+	width: 84%;
+	position: absolute;
+	top: 70%;
+	left: 8%;
+	z-index: 5;
+	opacity: 0;
+	-webkit-transition: top 0.25s, opacity 0.25s;
+	transition: top 0.25s, opacity 0.25s;
+}
+.gem-gallery-hover-vertical-sliding .gem-gallery-preview-carousel-wrap:hover .gem-gallery-item .gem-gallery-item-description {
+	top: 47%;
+	left: 8%;
+	opacity: 1;
+	-webkit-transition: top 0.25s 0.1s, opacity 0.25s 0.1s;
+	transition: top 0.25s 0.1s, opacity 0.25s 0.1s;
+}

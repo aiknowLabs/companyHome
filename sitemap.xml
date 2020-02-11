@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://aiknow.org/</loc>
+		<lastmod>2019-11-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://aiknow.org/#page</loc>
+	</url>
+	<url>
+		<loc>https://aiknow.org/#details</loc>
+	</url>
+	<url>
+		<loc>https://aiknow.org/#our_specialities</loc>
+	</url>
+	<url>
+		<loc>https://aiknow.org/#our_team</loc>
+	</url>
+</urlset>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gem</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 07 Nov 2019 06:05:07 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>./../2019/11/07/hello-world/index.html</link>
+				<comments>./../2019/11/07/hello-world/index.html#comments</comments>
+				<pubDate>Thu, 07 Nov 2019 05:35:18 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Uncategorised]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=1</guid>
+				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+								<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+							<wfw:commentRss>./../2019/11/07/hello-world/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>Organizing Your Workspace (Demo)</title>
+		<link>./../2016/04/22/organizing-your-workspace-2/index.html</link>
+				<comments>./../2016/04/22/organizing-your-workspace-2/index.html#respond</comments>
+				<pubDate>Fri, 22 Apr 2016 12:10:48 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Business 06 (Demo)]]></category>
+		<category><![CDATA[Mountains (Demo)]]></category>
+		<category><![CDATA[Nature (Demo)]]></category>
+		<category><![CDATA[Travelling (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=22768</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,]]></description>
+								<content:encoded><![CDATA[<div id="vc_row-5dc3b9aa3bb57" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1457791968195"><div class="wpb_wrapper"><div class="gem-youtube gem-wrapbox gem-wrapbox-style-no-style rounded-corners gem-wrapbox-position-below" style="width: 100%;"><div class="gem-wrapbox-inner gem-ratio-style" style="padding-top: 56.25%"><iframe class="gem-wrapbox-element img-responsive" width="100%" height="300" allowfullscreen="allowfullscreen" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//www.youtube.com/embed/XovcSDRQRO4?rel=0&amp;wmode=opaque"></iframe></div></div><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa3ddb0" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 35px;"></div><div   class="gem-quote gem-quote-style-2 gem-quote-no-paddings"><blockquote  >&#8230;Lorem Ipsum proin gravida nibh vel velit  aliquet.</blockquote></div><div class="clearboth"></div><div class="gem-divider " style="margin-top: -32px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa40332" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 20px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa41578" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-textbox" ><div class="gem-textbox-inner" style="border: 3px solid #e3e8ea;"><div class="gem-textbox-content" style="background-position: center top;"><div class="gem-alert-box"><div class="gem-alert-inner"><div class="gem-alert-box-picture"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-circle" style="border-color: #00bcd4;opacity: 1;"><div class="gem-icon-inner" style=""><span class="gem-icon-half-1" style="color: #00bcd4;"><span class="back-angle">&#xf412;</span></span><span class="gem-icon-half-2" style="color: #00bcd4;"><span class="back-angle">&#xf412;</span></span></div></div></div><div class="gem-alert-box-content">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+
+		</div>
+	</div>
+</div><div class="gem-alert-box-buttons"><div class="gem-button-container gem-button-position-center"><a class="gem-button gem-button-size-medium gem-button-style-outline gem-button-text-weight-normal gem-button-border-2" style="border-radius: 3px;border-color: #8697ff;color: #8697ff;" onmouseleave="this.style.borderColor='#8697ff';this.style.backgroundColor='transparent';this.style.color='#8697ff';" onmouseenter="this.style.backgroundColor='#8697ff';this.style.color='#ffffff';" href="" target="_self">buy now</a></div> </div></div></div></div></div></div></div></div></div></div>
+]]></content:encoded>
+							<wfw:commentRss>./../2016/04/22/organizing-your-workspace-2/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The Newest Part of Team (Demo)</title>
+		<link>./../2016/04/22/the-newest-part-of-team-2/index.html</link>
+				<comments>./../2016/04/22/the-newest-part-of-team-2/index.html#respond</comments>
+				<pubDate>Fri, 22 Apr 2016 12:09:25 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Business 06 (Demo)]]></category>
+		<category><![CDATA[Mountains (Demo)]]></category>
+		<category><![CDATA[Nature (Demo)]]></category>
+		<category><![CDATA[Travelling (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=22767</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.]]></description>
+								<content:encoded><![CDATA[<div id="vc_row-5dc3b9aa47843" class="vc_row wpb_row vc_row-fluid vc_custom_1457788806421 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788634484"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788641047"><div class="wpb_wrapper"></div></div></div></div><div id="vc_row-5dc3b9aa49042" class="vc_row wpb_row vc_row-fluid vc_custom_1457788064361 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788029212"><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div><div class="centered-box"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-circle" style="border-color: rgba(135,123,228,0.34);border-color: rgba(84,79,135,0.18);opacity: 1;"><div class="gem-icon-inner" style="background-color: rgba(135,123,228,0.34);"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf398;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf398;</span></span></div></div></div><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="title-h4" style="text-align: center;"><span style="color: #ffffff;">dolor ipsum</span><br />
+<span style="color: #ffffff;">dolor sit amet</span></div>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><span style="color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788645891"><div class="wpb_wrapper"></div></div></div></div><div id="vc_row-5dc3b9aa4ae24" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 46px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 40px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa4c10c" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div   class="gem-quote gem-quote-style-4 gem-quote-no-paddings"><blockquote  >&#8230;Lorem Ipsum proin gravida nibh vel velit auctor aliquet lorem quis bibendum auctor, nisi elit</blockquote></div></div></div></div></div><div id="vc_row-5dc3b9aa4d155" class="vc_row wpb_row vc_row-fluid vc_custom_1457788607747"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788989575"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0"><div class="vc_column-inner vc_custom_1457788939445"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa4e6f8" class="vc_row wpb_row vc_row-fluid vc_custom_1457788581707"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1457789015745"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788951975"><div class="wpb_wrapper"></div></div></div></div>
+]]></content:encoded>
+							<wfw:commentRss>./../2016/04/22/the-newest-part-of-team-2/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Easy To Use Gallery System (Demo)</title>
+		<link>./../2016/04/22/easy-to-use-gallery-system-2/index.html</link>
+				<comments>./../2016/04/22/easy-to-use-gallery-system-2/index.html#respond</comments>
+				<pubDate>Fri, 22 Apr 2016 12:07:50 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Business 06 (Demo)]]></category>
+		<category><![CDATA[Mountains (Demo)]]></category>
+		<category><![CDATA[Nature (Demo)]]></category>
+		<category><![CDATA[Travelling (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=22766</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.]]></description>
+								<content:encoded><![CDATA[<div id="vc_row-5dc3b9aa53b81" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1457791968195"><div class="wpb_wrapper"><div class="gem-youtube gem-wrapbox gem-wrapbox-style-no-style rounded-corners gem-wrapbox-position-below" style="width: 100%;"><div class="gem-wrapbox-inner gem-ratio-style" style="padding-top: 56.25%"><iframe class="gem-wrapbox-element img-responsive" width="100%" height="300" allowfullscreen="allowfullscreen" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//www.youtube.com/embed/XovcSDRQRO4?rel=0&amp;wmode=opaque"></iframe></div></div><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa54dae" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 35px;"></div><div   class="gem-quote gem-quote-style-2 gem-quote-no-paddings"><blockquote  >&#8230;Lorem Ipsum proin gravida nibh vel velit  aliquet.</blockquote></div><div class="clearboth"></div><div class="gem-divider " style="margin-top: -32px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa56aac" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 20px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa5796e" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-textbox" ><div class="gem-textbox-inner" style="border: 3px solid #e3e8ea;"><div class="gem-textbox-content" style="background-position: center top;"><div class="gem-alert-box"><div class="gem-alert-inner"><div class="gem-alert-box-picture"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-circle" style="border-color: #00bcd4;opacity: 1;"><div class="gem-icon-inner" style=""><span class="gem-icon-half-1" style="color: #00bcd4;"><span class="back-angle">&#xf412;</span></span><span class="gem-icon-half-2" style="color: #00bcd4;"><span class="back-angle">&#xf412;</span></span></div></div></div><div class="gem-alert-box-content">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+
+		</div>
+	</div>
+</div><div class="gem-alert-box-buttons"><div class="gem-button-container gem-button-position-center"><a class="gem-button gem-button-size-medium gem-button-style-outline gem-button-text-weight-normal gem-button-border-2" style="border-radius: 3px;border-color: #8697ff;color: #8697ff;" onmouseleave="this.style.borderColor='#8697ff';this.style.backgroundColor='transparent';this.style.color='#8697ff';" onmouseenter="this.style.backgroundColor='#8697ff';this.style.color='#ffffff';" href="" target="_self">buy now</a></div> </div></div></div></div></div></div></div></div></div></div>
+]]></content:encoded>
+							<wfw:commentRss>./../2016/04/22/easy-to-use-gallery-system-2/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Donec volutpat scelerisque felis, quis tristique velit ultrices sit amet. (Demo)</title>
+		<link>./../2016/04/20/donec-volutpat-scelerisque-felis-quis-tristique-velit-ultrices-sit/index.html</link>
+				<comments>./../2016/04/20/donec-volutpat-scelerisque-felis-quis-tristique-velit-ultrices-sit/index.html#respond</comments>
+				<pubDate>Wed, 20 Apr 2016 12:21:14 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Footer Agency (Demo)]]></category>
+		<category><![CDATA[Mountains (Demo)]]></category>
+		<category><![CDATA[Nature (Demo)]]></category>
+		<category><![CDATA[Travelling (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=22104</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.]]></description>
+								<content:encoded><![CDATA[<div id="vc_row-5dc3b9aa5d572" class="vc_row wpb_row vc_row-fluid vc_custom_1457788806421 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788634484"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788641047"><div class="wpb_wrapper"></div></div></div></div><div id="vc_row-5dc3b9aa5e71b" class="vc_row wpb_row vc_row-fluid vc_custom_1457788064361 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788029212"><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div><div class="centered-box"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-circle" style="border-color: rgba(135,123,228,0.34);border-color: rgba(84,79,135,0.18);opacity: 1;"><div class="gem-icon-inner" style="background-color: rgba(135,123,228,0.34);"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf398;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf398;</span></span></div></div></div><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="title-h4" style="text-align: center;"><span style="color: #ffffff;">dolor ipsum</span><br />
+<span style="color: #ffffff;">dolor sit amet</span></div>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><span style="color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788645891"><div class="wpb_wrapper"></div></div></div></div><div id="vc_row-5dc3b9aa60400" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 46px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 40px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa616ab" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div   class="gem-quote gem-quote-style-4 gem-quote-no-paddings"><blockquote  >&#8230;Lorem Ipsum proin gravida nibh vel velit auctor aliquet lorem quis bibendum auctor, nisi elit</blockquote></div></div></div></div></div><div id="vc_row-5dc3b9aa62304" class="vc_row wpb_row vc_row-fluid vc_custom_1457788607747"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788989575"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0"><div class="vc_column-inner vc_custom_1457788939445"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa6364a" class="vc_row wpb_row vc_row-fluid vc_custom_1457788581707"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1457789015745"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788951975"><div class="wpb_wrapper"></div></div></div></div>
+]]></content:encoded>
+							<wfw:commentRss>./../2016/04/20/donec-volutpat-scelerisque-felis-quis-tristique-velit-ultrices-sit/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Nullam vitae blandit odio. Maecenas at mollis ipsum. (Demo)</title>
+		<link>./../2016/04/20/nullam-vitae-blandit-odio-maecenas-at-mollis-ipsum/index.html</link>
+				<pubDate>Wed, 20 Apr 2016 12:21:13 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Footer Agency (Demo)]]></category>
+		<category><![CDATA[Development (Demo)]]></category>
+		<category><![CDATA[Media (Demo)]]></category>
+		<category><![CDATA[Webdesign (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=22103</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.]]></description>
+								<content:encoded><![CDATA[<div class="vc_row-full-width-before"></div><div id="vc_row-5dc3b9aa67b7f" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-5dc3b9aa67b7f")); }</script><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div   class="gem-quote gem-quote-style-1 gem-quote-no-paddings"><blockquote  >&#8230;Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</blockquote></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-icon-with-text gem-icon-with-text-icon-size-medium gem-icon-with-text-flow"><div style="margin-bottom:0px;margin-top:0px; " class="gem-icon-with-text-icon"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-square" style="border-color: #00bcd4;opacity: 1;"><div class="gem-icon-inner" style="background-color: #00bcd4;"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf1be;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf1be;</span></span></div></div></div><div class="gem-icon-with-text-content" ><div class="gem-icon-with-text-text">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>psum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+
+		</div>
+	</div>
+</div></div><div class="clearboth"></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-icon-with-text gem-icon-with-text-icon-size-medium gem-icon-with-text-flow"><div style="margin-bottom:0px;margin-top:0px; " class="gem-icon-with-text-icon"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-square" style="border-color: #00cab0;opacity: 1;"><div class="gem-icon-inner" style="background-color: #00cab0;"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf287;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf287;</span></span></div></div></div><div class="gem-icon-with-text-content" ><div class="gem-icon-with-text-text">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>psum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+
+		</div>
+	</div>
+</div></div><div class="clearboth"></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-icon-with-text gem-icon-with-text-icon-size-medium gem-icon-with-text-flow"><div style="margin-bottom:0px;margin-top:0px; " class="gem-icon-with-text-icon"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-square" style="border-color: #7e57c2;opacity: 1;"><div class="gem-icon-inner" style="background-color: #7e57c2;"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf2ff;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf2ff;</span></span></div></div></div><div class="gem-icon-with-text-content" ><div class="gem-icon-with-text-text">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>psum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+
+		</div>
+	</div>
+</div></div><div class="clearboth"></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="vc_row-5dc3b9aa6acb7" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="preloader"><div class="preloader-spin"></div></div>
+<div class="gallery-preloader-wrapper"> </div></div></div></div></div>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Duis vel odio id nunc laoreet hendrerit. Sed pretium in nisi non vestibulum. (Demo)</title>
+		<link>./../2016/04/20/duis-vel-odio-id-nunc-laoreet-hendrerit-sed-pretium-in-nisi-non-vestibulum/index.html</link>
+				<comments>./../2016/04/20/duis-vel-odio-id-nunc-laoreet-hendrerit-sed-pretium-in-nisi-non-vestibulum/index.html#respond</comments>
+				<pubDate>Wed, 20 Apr 2016 12:21:12 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Footer Agency (Demo)]]></category>
+		<category><![CDATA[Development (Demo)]]></category>
+		<category><![CDATA[Finance (Demo)]]></category>
+		<category><![CDATA[Media (Demo)]]></category>
+		<category><![CDATA[Webdesign (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=22102</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ]]></description>
+								<content:encoded><![CDATA[<div id="vc_row-5dc3b9aa6f585" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: -20px;"></div>
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="./../wp-content/uploads/2016/03/1-4-900x900-1-e1457780809835.jpg" width="900" height="562" alt="1-4-900x900 (Demo)" title="1-4-900x900 (Demo)" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa7217d" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="title-h2">lorem ipsum<span class="light"> dolor sit amet</span></div>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa732ff" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-dropcap gem-dropcap-shape-hexagon gem-dropcap-style-medium"><div class="dropcap-hexagon-inner"><div class="gem-dropcap-shape-hexagon-back"><div class="gem-dropcap-shape-hexagon-back-inner"><div class="gem-dropcap-shape-hexagon-back-inner-before" style="background: #00bcd4"></div></div></div><div class="gem-dropcap-shape-hexagon-top"><div class="gem-dropcap-shape-hexagon-top-inner"><div class="gem-dropcap-shape-hexagon-top-inner-before" style="background-color:#00bcd4"></div></div></div></div><span class="gem-dropcap-letter" style="color: #ffffff;background-color: #00bcd4;">L</span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 50px;"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sun.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa7546c" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="preloader"><div class="preloader-spin"></div></div>
+<div class="gallery-preloader-wrapper"> </div></div></div></div></div>
+]]></content:encoded>
+							<wfw:commentRss>./../2016/04/20/duis-vel-odio-id-nunc-laoreet-hendrerit-sed-pretium-in-nisi-non-vestibulum/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Blog post + right sidebar (Demo)</title>
+		<link>./../2016/04/18/blog-post-right-sidebar-9/index.html</link>
+				<comments>./../2016/04/18/blog-post-right-sidebar-9/index.html#respond</comments>
+				<pubDate>Mon, 18 Apr 2016 14:19:35 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Agency Light (Demo)]]></category>
+		<category><![CDATA[Mountains (Demo)]]></category>
+		<category><![CDATA[Nature (Demo)]]></category>
+		<category><![CDATA[Travelling (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=21703</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.]]></description>
+								<content:encoded><![CDATA[<div id="vc_row-5dc3b9aa7867b" class="vc_row wpb_row vc_row-fluid vc_custom_1457788806421 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788634484"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788641047"><div class="wpb_wrapper"></div></div></div></div><div id="vc_row-5dc3b9aa79ff6" class="vc_row wpb_row vc_row-fluid vc_custom_1457788064361 vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788029212"><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div><div class="centered-box"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-circle" style="border-color: rgba(135,123,228,0.34);border-color: rgba(84,79,135,0.18);opacity: 1;"><div class="gem-icon-inner" style="background-color: rgba(135,123,228,0.34);"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf398;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf398;</span></span></div></div></div><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="title-h4" style="text-align: center;"><span style="color: #ffffff;">dolor ipsum</span><br />
+<span style="color: #ffffff;">dolor sit amet</span></div>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><span style="color: #ffffff;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></div>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788645891"><div class="wpb_wrapper"></div></div></div></div><div id="vc_row-5dc3b9aa7bf2c" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 46px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisiut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 40px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa7d481" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div   class="gem-quote gem-quote-style-4 gem-quote-no-paddings"><blockquote  >&#8230;Lorem Ipsum proin gravida nibh vel velit auctor aliquet lorem quis bibendum auctor, nisi elit</blockquote></div></div></div></div></div><div id="vc_row-5dc3b9aa7e4d2" class="vc_row wpb_row vc_row-fluid vc_custom_1457788607747"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788989575"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0"><div class="vc_column-inner vc_custom_1457788939445"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa7feca" class="vc_row wpb_row vc_row-fluid vc_custom_1457788581707"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1457789015745"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1457788951975"><div class="wpb_wrapper"></div></div></div></div>
+]]></content:encoded>
+							<wfw:commentRss>./../2016/04/18/blog-post-right-sidebar-9/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>100% width  Galleries Post (Demo)</title>
+		<link>./../2016/04/18/100-width-galleries-post-9/index.html</link>
+				<pubDate>Mon, 18 Apr 2016 14:17:18 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Agency Light (Demo)]]></category>
+		<category><![CDATA[Development (Demo)]]></category>
+		<category><![CDATA[Media (Demo)]]></category>
+		<category><![CDATA[Webdesign (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=21704</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.]]></description>
+								<content:encoded><![CDATA[<div class="vc_row-full-width-before"></div><div id="vc_row-5dc3b9aa84c04" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid"><script type="text/javascript">if (typeof(gem_fix_fullwidth_position) == "function") { gem_fix_fullwidth_position(document.getElementById("vc_row-5dc3b9aa84c04")); }</script><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div   class="gem-quote gem-quote-style-1 gem-quote-no-paddings"><blockquote  >&#8230;Lorem ipsum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</blockquote></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-icon-with-text gem-icon-with-text-icon-size-medium gem-icon-with-text-flow"><div style="margin-bottom:0px;margin-top:0px; " class="gem-icon-with-text-icon"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-square" style="border-color: #00bcd4;opacity: 1;"><div class="gem-icon-inner" style="background-color: #00bcd4;"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf1be;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf1be;</span></span></div></div></div><div class="gem-icon-with-text-content" ><div class="gem-icon-with-text-text">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>psum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+
+		</div>
+	</div>
+</div></div><div class="clearboth"></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-icon-with-text gem-icon-with-text-icon-size-medium gem-icon-with-text-flow"><div style="margin-bottom:0px;margin-top:0px; " class="gem-icon-with-text-icon"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-square" style="border-color: #00cab0;opacity: 1;"><div class="gem-icon-inner" style="background-color: #00cab0;"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf287;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf287;</span></span></div></div></div><div class="gem-icon-with-text-content" ><div class="gem-icon-with-text-text">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>psum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+
+		</div>
+	</div>
+</div></div><div class="clearboth"></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-icon-with-text gem-icon-with-text-icon-size-medium gem-icon-with-text-flow"><div style="margin-bottom:0px;margin-top:0px; " class="gem-icon-with-text-icon"><div class="gem-icon gem-icon-pack-material gem-icon-size-medium  gem-icon-shape-square" style="border-color: #7e57c2;opacity: 1;"><div class="gem-icon-inner" style="background-color: #7e57c2;"><span class="gem-icon-half-1" style="color: #ffffff;"><span class="back-angle">&#xf2ff;</span></span><span class="gem-icon-half-2" style="color: #ffffff;"><span class="back-angle">&#xf2ff;</span></span></div></div></div><div class="gem-icon-with-text-content" ><div class="gem-icon-with-text-text">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>psum dolor sit amet, consectetur adi pisicing elit, sed do eiusmod tempor inci didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.</p>
+
+		</div>
+	</div>
+</div></div><div class="clearboth"></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="vc_row-5dc3b9aa88854" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="preloader"><div class="preloader-spin"></div></div>
+<div class="gallery-preloader-wrapper"> </div></div></div></div></div>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Blog post + left sidebar (Demo)</title>
+		<link>./../2016/04/18/blog-post-left-sidebar-8/index.html</link>
+				<comments>./../2016/04/18/blog-post-left-sidebar-8/index.html#respond</comments>
+				<pubDate>Mon, 18 Apr 2016 14:17:15 +0000</pubDate>
+		<dc:creator><![CDATA[gem]]></dc:creator>
+				<category><![CDATA[Agency Light (Demo)]]></category>
+		<category><![CDATA[Development (Demo)]]></category>
+		<category><![CDATA[Finance (Demo)]]></category>
+		<category><![CDATA[Media (Demo)]]></category>
+		<category><![CDATA[Webdesign (Demo)]]></category>
+
+		<guid isPermaLink="false">http://democontent.codex-themes.com/thegem-creative/?p=21702</guid>
+				<description><![CDATA[Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. ]]></description>
+								<content:encoded><![CDATA[<div id="vc_row-5dc3b9aa8cf2a" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: -20px;"></div>
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="./../wp-content/uploads/2016/03/1-4-900x900-1-e1457780809835.jpg" width="900" height="562" alt="1-4-900x900 (Demo)" title="1-4-900x900 (Demo)" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa8e888" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class="title-h2">lorem ipsum<span class="light"> dolor sit amet</span></div>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 25px;"></div></div></div></div></div><div id="vc_row-5dc3b9aa8f738" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gem-dropcap gem-dropcap-shape-hexagon gem-dropcap-style-medium"><div class="dropcap-hexagon-inner"><div class="gem-dropcap-shape-hexagon-back"><div class="gem-dropcap-shape-hexagon-back-inner"><div class="gem-dropcap-shape-hexagon-back-inner-before" style="background: #00bcd4"></div></div></div><div class="gem-dropcap-shape-hexagon-top"><div class="gem-dropcap-shape-hexagon-top-inner"><div class="gem-dropcap-shape-hexagon-top-inner-before" style="background-color:#00bcd4"></div></div></div></div><span class="gem-dropcap-letter" style="color: #ffffff;background-color: #00bcd4;">L</span></div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+		</div>
+	</div>
+<div class="clearboth"></div><div class="gem-divider " style="margin-top: 50px;"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sun.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div id="vc_row-5dc3b9aa91551" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="preloader"><div class="preloader-spin"></div></div>
+<div class="gallery-preloader-wrapper"> </div></div></div></div></div>
+]]></content:encoded>
+							<wfw:commentRss>./../2016/04/18/blog-post-left-sidebar-8/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
